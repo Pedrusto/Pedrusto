@@ -23,9 +23,9 @@ Sou um desenvolvedor backend em formação, atualmente atuando como Agente Admin
 
 ## 💡 Tech Skills | Habilidades Técnicas
 
-- **Languages | Linguagens:** Java, Python
-- **Tools | Ferramentas:** Git, Controle de Versão
-- **Data | Dados:** Gerenciamento de Dados
+- **Languages | Linguagens:** Java, Python, C, C#
+- **Tools | Ferramentas:** Git, Version Control
+- **Data | Dados:** Databases, Data Management
 - **Languages | Idiomas:** English (proficient) | Inglês (avançado), Português (nativo)
 
 ---
